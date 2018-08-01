@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Tinos');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background: url(../img/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+}
+
+a, a:visited, a:active, a:hover {
+  color: #28a745;
+}

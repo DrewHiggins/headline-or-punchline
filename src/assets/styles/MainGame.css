@@ -1,0 +1,44 @@
+@media only screen and (max-width: 414px) {
+    .main-game-container {
+        margin-top: 0.75em !important;
+    }
+
+    .headline {
+        font-size: 24px !important;
+    }
+
+    p.question {
+        font-size: 18px !important;
+    }
+}
+
+.main-game-container {
+    margin-top: 3em;
+}
+
+.headline {
+    font-family: "Tinos", serif;
+    font-size: 42px;
+    font-style: oblique;
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+p.info-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.option-button {
+    display: inline-block;
+    margin-top: 1em;
+    width: 100%;
+}
+
+.keep-playing-button {
+    display: block;
+    margin: 1em auto auto auto;
+    padding-left: 2em;
+    padding-right: 2em;
+}
